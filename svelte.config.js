@@ -2,7 +2,7 @@
 import adapter from '@sveltejs/adapter-static'; 
 import preprocess from "svelte-preprocess";
 
-const dev = "production" === "development";
+const dev = process.env.NODE_ENV !== 'production';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -11,9 +11,24 @@ const config = {
 			postcss: true,
 		}),
 	],
-	//kit: {
-	//	adapter: adapter()
-	//}
+	kit: {
+		//adapter: adapter(),
+		prerender: {
+			default: true,
+			entries: []
+		},
+		adapter: adapter({
+            pages: 'docs',
+            assets: 'docs',
+            fallback: null,
+            precompress: false
+        }),
+        trailingSlash: 'always',
+        paths: {
+            base: dev ? "" : "/dreisessel",
+        }
+	}
+	/*
 	kit: {
         adapter: adapter({
             pages: "docs",
@@ -29,6 +44,7 @@ const config = {
 			entries: []
 		},
     }
+	*/
 };
 
 export default config;
