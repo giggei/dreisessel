@@ -4,7 +4,7 @@
     "src": "src/lib/assets/logo_small.png"
   },
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-06c1964a.js",
+    "file": "_app/immutable/start-1414d75c.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
