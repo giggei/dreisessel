@@ -61,7 +61,10 @@
 	<div class="mobile-menu hidden md:hidden">
 		<a href="/" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Startseite</a>
 		<a href="/geschichte" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Geschichte</a>
-		<a href="/umbau" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Umbau</a>
+		<a href="/umbau" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Die Renovierung</a>
+		<a href="/paechter" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Der Pächter</a>
+		<a href="/blog" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Aktuelles</a>
+		<a href="/" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Spenden</a>
 	</div>
 </nav>
 <!-- content goes here -->

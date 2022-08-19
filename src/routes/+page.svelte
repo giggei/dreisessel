@@ -81,7 +81,7 @@
 				Wir hoffen auf Ihre Unterstützung und bedanken uns bereits im Vorfeld schon recht herzlich
 				dafür!
 			</p>
-			<div class="w-2/12 py-4">
+			<div class="w-80 py-4">
 				<img
 					src={bermann}
 					alt="..."
