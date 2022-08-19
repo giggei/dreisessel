@@ -1,6 +1,6 @@
 <script>
-	import timeline from '$lib/assets/data/timeline.json';
     import schutzhaus from '$lib/assets/Schutzhaus_bw.png';
+	import timeline from '$lib/assets/data/timeline.json';
 </script>
 
 <section class="py-20 bg-white">
@@ -35,7 +35,7 @@
 			markante Felsstruktur und die Lage auf dem Gipfel gab später dem ganzen Bergrücken den Namen.
 		</p>
 		<ol class="border-l border-green-300">
-			{#each timeline as { year, info }}
+			{#each timeline.reverse() as { year, info }}
 				<li>
 					<div class="flex flex-start items-center pt-2">
 						<div class="bg-green-300 w-2 h-2 rounded-full -ml-1 mr-3" />

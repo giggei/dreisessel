@@ -80,7 +80,7 @@
 						<div class="flex flex-col items-center">
 							<div class="flex items-center justify-start mt-10 lg:mt-0 w-full mx-auto">
 								<div class="w-full lg:w-1/2 lg:pr-8">
-									<div class="p-4 bg-white rounded shadow-lg shadow-green-800">
+									<div class="p-4 bg-white rounded shadow-lg">
 										<p
 											class="mb-2 text-sm font-semibold leading-none text-left text-green-600 uppercase"
 										>
@@ -103,7 +103,7 @@
 						<div class="flex flex-col items-center">
 							<div class="flex items-center justify-end mt-10 lg:mt-0 w-full mx-auto">
 								<div class="w-full lg:w-1/2 lg:pl-8">
-									<div class="p-4 bg-white rounded shadow-lg shadow-green-800">
+									<div class="p-4 bg-white rounded shadow-lg">
 										<p
 											class="mb-2 text-sm font-semibold leading-none text-left text-green-600 uppercase"
 										>
@@ -128,7 +128,7 @@
 						<div class="flex flex-col items-center">
 							<div class="flex items-center justify-start mt-10 lg:mt-0 w-full mx-auto">
 								<div class="w-full lg:w-1/2 lg:pr-8">
-									<div class="p-4 bg-white rounded shadow-lg shadow-green-800">
+									<div class="p-4 bg-white rounded shadow-lg">
 										<p
 											class="mb-2 text-sm font-semibold leading-none text-left text-green-600 uppercase"
 										>
@@ -154,7 +154,7 @@
 						<div class="flex flex-col items-center">
 							<div class="flex items-center justify-end mt-10 lg:mt-0 w-full mx-auto">
 								<div class="w-full lg:w-1/2 lg:pl-8">
-									<div class="p-4 bg-white rounded shadow-lg shadow-green-800">
+									<div class="p-4 bg-white rounded shadow-lg">
 										<p
 											class="mb-2 text-sm font-semibold leading-none text-left text-green-600 uppercase"
 										>
@@ -184,7 +184,7 @@
 						<div class="flex flex-col items-center">
 							<div class="flex items-center justify-start mt-10 lg:mt-0 w-full mx-auto">
 								<div class="w-full lg:w-1/2 lg:pr-8">
-									<div class="p-4 bg-white rounded shadow-lg shadow-green-800">
+									<div class="p-4 bg-white rounded shadow-lg">
 										<p
 											class="mb-2 text-sm font-semibold leading-none text-left text-green-600 uppercase"
 										>
