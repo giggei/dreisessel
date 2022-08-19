@@ -27,6 +27,10 @@
 					href="/umbau"
 					class="py-5 px-3 text-gray-700 hover:text-gray-900"
 					>Die Renovierung</a>
+					<a
+					href="/paechter"
+					class="py-5 px-3 text-gray-700 hover:text-gray-900"
+					>Der Pächter</a>
 			</div>
 			<!-- secondary nav -->
 			<div class="hidden md:flex items-center space-x-1">
@@ -62,9 +66,9 @@
 	<slot />
 </div>
 
-<footer class="p-4 bg-gray-100 shadow md:px-6 md:py-8 text-gray-600 fixed inset-x-0 bottom-0">
+<footer class="p-4 bg-gray-100 shadow md:px-6 text-gray-600 ">
     <div class="sm:flex sm:items-center sm:justify-between">
-		<img style="height: 60px;" src={logoSmall} alt="Förderverein Schutzhaus Dreisessel" class="mr-3 h-8">
+		<img style="height: 40px;" src={logoSmall} alt="Förderverein Schutzhaus Dreisessel" class="mr-3 h-8">
         <ul class="flex flex-wrap items-center mb-6 text-sm text-gray-500 sm:mb-0 dark:text-gray-400">
             <li>
                 <a href="/" class="mr-4 hover:underline md:mr-6 ">Impressum</a>

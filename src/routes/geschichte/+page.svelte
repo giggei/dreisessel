@@ -1,40 +1,53 @@
+<script>
+	import timeline from '$lib/assets/data/timeline.json';
+    import schutzhaus from '$lib/assets/Schutzhaus_bw.png';
+</script>
+
 <section class="py-20 bg-white">
-    <div class="flex flex-col px-8 mx-auto space-y-12 max-w-7xl xl:px-12">
-        <div class="relative">
-            <h2 class="w-full text-3xl font-bold text-center sm:text-4xl md:text-5xl"> Level Up Your Designs</h2>
-            <p class="w-full py-8 mx-auto -mt-2 text-lg text-center text-gray-700 intro sm:max-w-3xl">Add some nice touches to your interface with our latest designs, components, and templates. We've crafted a beautiful user experience that your visitors will love. </p>
-        </div>
-        <ol class="border-l border-gray-300">
-            <li>
-            <div class="flex flex-start items-center pt-3">
-                <div class="bg-gray-300 w-2 h-2 rounded-full -ml-1 mr-3"></div>
-                <p class="text-gray-500 text-sm">01.07.2021</p>
-            </div>
-            <div class="mt-0.5 ml-4 mb-6">
-                <h4 class="text-gray-800 font-semibold text-xl mb-1.5">Title of section 1</h4>
-                <p class="text-gray-500 mb-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque scelerisque diam non nisi semper, et elementum lorem ornare. Maecenas placerat facilisis mollis. Duis sagittis ligula in sodales vehicula.</p>
-            </div>
-            </li>
-            <li>
-            <div class="flex flex-start items-center pt-2">
-                <div class="bg-gray-300 w-2 h-2 rounded-full -ml-1 mr-3"></div>
-                <p class="text-gray-500 text-sm">13.09.2021</p>
-            </div>
-            <div class="mt-0.5 ml-4 mb-6">
-                <h4 class="text-gray-800 font-semibold text-xl mb-1.5">Title of section 2</h4>
-                <p class="text-gray-500 mb-3">Libero expedita explicabo eius fugiat quia aspernatur autem laudantium error architecto recusandae natus sapiente sit nam eaque, consectetur porro molestiae ipsam an deleniti.</p>
-            </div>
-            </li>
-            <li>
-            <div class="flex flex-start items-center pt-2">
-                <div class="bg-gray-300 w-2 h-2 rounded-full -ml-1 mr-3"></div>
-                <p class="text-gray-500 text-sm">25.11.2021</p>
-            </div>
-            <div class="mt-0.5 ml-4 pb-5">
-                <h4 class="text-gray-800 font-semibold text-xl mb-1.5">Title of section 3</h4>
-                <p class="text-gray-500 mb-3">Voluptatibus temporibus esse illum eum aspernatur, fugiat suscipit natus! Eum corporis illum nihil officiis tempore. Excepturi illo natus libero sit doloremque, laborum molestias rerum pariatur quam ipsam necessitatibus incidunt, explicabo.</p>
-            </div>
-            </li>
-        </ol>
-    </div>
+	<div class="flex flex-col px-8 mx-auto space-y-12 max-w-7xl xl:px-12">
+		<div class="relative">
+			<h1 class="font-bold text-3xl mb-4">Das Dreisesselschutzhaus – damals & heute</h1>
+			<p class="mb-6">
+				Am 10. Juni 1889 wurde das Schutzhaus am Dreisessel feierlich eröffnet und der erste
+				Bergwirt, Josef Moosbauer aus Breitenberg, begann mit seiner Arbeit. Seitdem ist vieles
+				passiert. Zahlreichen Stürmen hat das Gebäude getrotzt, viele Feste fanden unter seinem Dach
+				statt und unzählige Wanderer konnten sich dort stärken. Als das Dreisesselschutzhaus 1949
+				durch einen Brand zerstört wurde, lies der Wiederaufbau nicht lange auf sich warten.
+				Besonders einschneidend war natürlich die Zeit des Eisernen Vorhangs, der nach dem II.
+				Weltkrieg 1945 entstand. Dieser beeinflusste in der Dreiländerregion
+				Deutschland-Österreich-Tschechien in besonderem Maße den Alltag der Menschen. Und das für
+				sehr viele Jahre. Erst 1989 war durch die Öffnung des Eisernen Vorhangs wieder grenzenloses
+				Wandern am Dreisessel möglich. Nun konnte am Dreiländereck endlich wieder ein enges
+				Miteinander und ein reger Austausch der Kulturen stattfinden.
+			</p>
+		</div>
+
+        <img
+					src={schutzhaus}
+					alt="..."
+					class="drop-shadow-lg rounded-lg max-w-full h-auto align-middle border-none"
+				/>
+
+		<h1 class="font-bold text-3xl mb-4">Wichtige Ereignisse</h1>
+		<p class="mb-6">
+			Der Begriff „Dreisessel“ entstand erst im 17. Jahrhundert. Die mächtig aufgetürmten
+			Felsblöckehatten hatten die Form von „drei Sessel“, die schon von Ferne sichtbar waren. Diese
+			markante Felsstruktur und die Lage auf dem Gipfel gab später dem ganzen Bergrücken den Namen.
+		</p>
+		<ol class="border-l border-green-300">
+			{#each timeline as { year, info }}
+				<li>
+					<div class="flex flex-start items-center pt-2">
+						<div class="bg-green-300 w-2 h-2 rounded-full -ml-1 mr-3" />
+						<h4 class="text-gray-800 font-semibold text-xl mb-1.5">{year}</h4>
+					</div>
+					<div class="mt-0.5 ml-4 mb-6">
+						<p class="text-gray-500 mb-3">
+							{info}
+						</p>
+					</div>
+				</li>
+			{/each}
+		</ol>
+	</div>
 </section>
