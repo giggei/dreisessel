@@ -8,7 +8,7 @@
 	}
 </script>
 
-
+<div class="flex flex-col h-screen">
 <!-- navbar goes here -->
 <nav class="bg-gray-100 fixed inset-x-0 z-10 top-0">
 	<div class="max-w-6xl mx-auto px-4">
@@ -31,6 +31,10 @@
 					href="/paechter"
 					class="py-5 px-3 text-gray-700 hover:text-gray-900"
 					>Der Pächter</a>
+					<a
+					href="/blog"
+					class="py-5 px-3 text-gray-700 hover:text-gray-900"
+					>Aktuelles</a>
 			</div>
 			<!-- secondary nav -->
 			<div class="hidden md:flex items-center space-x-1">
@@ -62,7 +66,7 @@
 </nav>
 <!-- content goes here -->
 
-<div class="pb-20 mt-[64px]">
+<div class="pb-20 mt-[64px] flex-grow">
 	<slot />
 </div>
 
@@ -79,3 +83,4 @@
         </ul>
     </div>
 </footer>
+</div>
