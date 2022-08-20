@@ -1,5 +1,6 @@
 <script>
-	import logoSmall from "$lib/assets/logo_small.png"
+	import logoSmall from "$lib/assets/logo_big.png"
+	import logoHaus from "$lib/assets/schutzhaus_klein.png"
 	import "../app.css";
 
 	const toggleMenu = () => {
@@ -15,6 +16,7 @@
 		<div class="flex justify-between">
 			<!-- primary nav -->
 			<div class="hidden md:flex items-center space-x-1">
+				<img style="height: 40px;" src={logoHaus} alt="Förderverein Schutzhaus Dreisessel" class="mr-3 h-8">
 				<a
 					href="/"
 					class="py-5 px-3 text-gray-700 hover:text-gray-900"
@@ -39,14 +41,14 @@
 			<!-- secondary nav -->
 			<div class="hidden md:flex items-center space-x-1">
 				<a
-					href="/"
+					href="/spenden"
 					class="py-2 px-3 bg-green-400 text-white hover:bg-green-300 text-sm hover:text-yellow-800 rounded transition duration-300"
 					>Spenden</a
 				>
 			</div>
 			<!-- mobile button goes here -->
 			<div class="md:hidden flex items-center space-x-1">
-				<!-- empty element to get burger to the right -->
+				<img style="height: 40px;" src={logoHaus} alt="Förderverein Schutzhaus Dreisessel" class="mr-3 h-8">
 			</div>
 			<div class="md:hidden flex items-center space-x-1 h-16 float-right cursor-pointer" on:click="{toggleMenu}">
 				<div class="space-y-2">
@@ -64,7 +66,7 @@
 		<a href="/umbau" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Die Renovierung</a>
 		<a href="/paechter" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Der Pächter</a>
 		<a href="/blog" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Aktuelles</a>
-		<a href="/" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Spenden</a>
+		<a href="/spenden" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Spenden</a>
 	</div>
 </nav>
 <!-- content goes here -->
@@ -78,7 +80,7 @@
 		<img style="height: 40px;" src={logoSmall} alt="Förderverein Schutzhaus Dreisessel" class="mr-3 h-8">
         <ul class="flex flex-wrap items-center mb-6 text-sm text-gray-500 sm:mb-0 dark:text-gray-400">
             <li>
-                <a href="/" class="mr-4 hover:underline md:mr-6 ">Impressum</a>
+                <a href="/impressum" class="mr-4 hover:underline md:mr-6 ">Impressum</a>
             </li>
             <li>
                 <a href="https://waldverein-dreisessel.de" class="mr-4 hover:underline md:mr-6">Waldverein Dreisessel</a>
