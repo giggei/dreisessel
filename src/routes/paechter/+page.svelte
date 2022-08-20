@@ -33,7 +33,7 @@
 							/>
 						</svg>
 
-						<div class="relative z-10">
+						<div class="relative">
 							<p class="text-gray-800 sm:text-xl">
 								<em>
 									Zusammen ergänzen wir uns optimal und sehen uns dieser Herausforderung gewachsen.
@@ -77,7 +77,7 @@ besuchen können.
 		</p>
 
 		<p class="mb-6">
-			
+
 		</p>
 	</div>
 </section>
