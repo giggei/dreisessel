@@ -12,7 +12,7 @@
 <div class="flex flex-col h-screen">
 <!-- navbar goes here -->
 <nav class="bg-gray-100 fixed inset-x-0 z-10 top-0">
-	<div class="max-w-6xl mx-auto px-4">
+	<div class="max-w-7xl mx-auto px-8 xl:px-12">
 		<div class="flex justify-between">
 			<!-- primary nav -->
 			<div class="hidden md:flex items-center space-x-1">

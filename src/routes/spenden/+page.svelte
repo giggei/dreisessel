@@ -14,9 +14,31 @@ im Betreff Ihrer Spende oder per E-Mail (info@waldverein-dreisessel.de)
 mit. Selbstverständlich erhalten Sie von uns auf Wunsch
 auch eine Spendenquittung.
 			</p>
-			<h1 class="font-bold text-3xl mb-4">Bitte überweisen Sie Ihre
-				Spende auf folgendes Konto:</h1>
+			<h1 class="font-bold text-3xl mb-4">Bitte überweisen Sie Ihre Spende auf folgendes Konto:</h1>
 
+			
+
+				<div class="bg-white border rounded-md shadow-lg dark:border-gray-100 p-4">
+					<div class="flex p-4">
+						<div class="">
+							<blockquote class="relative">
+								<div class="relative">
+									<p class="text-gray-800 sm:text-xl">
+										<em>
+											<p><b>Förderverein Schutzhaus Dreisessel e.V.</b></p>
+											<p>IBAN: DE03 7406 1101 0201 8124 16</p>
+											<p>BIC: GENODEF 1RGS</p>
+											<p>Betreff: Spende Schutzhaus Dreisessel</p>
+										</em>
+									</p>
+								</div>
+							</blockquote>
+						</div>
+					</div>
+				</div>
+
+
+				<h1 class="font-bold text-3xl my-4">Vielen Dank</h1>
 		</div>
 	</div>
 </section>
