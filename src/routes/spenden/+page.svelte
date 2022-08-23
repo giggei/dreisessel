@@ -18,11 +18,11 @@ auch eine Spendenquittung.
 
 			
 
-				<div class="bg-white border rounded-md shadow-lg dark:border-gray-100 p-4">
+				<div class="bg-gelb border rounded-md shadow-lg dark:border-gray-100 p-4">
 					<div class="flex p-4">
 						<div class="">
-							<blockquote class="relative">
-								<div class="relative">
+							<blockquote>
+								<div class="place-content-center">
 									<p class="text-gray-800 sm:text-xl">
 										<em>
 											<p><b>Förderverein Schutzhaus Dreisessel e.V.</b></p>

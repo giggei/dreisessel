@@ -1,13 +1,16 @@
 <script>
 	import bermann from '$lib/assets/WalterBermann.png';
+	import dreisessel from '$lib/assets/Dreisessel.jpg';
+
 </script>
 
 <!-- Background image TODO: Eigene Componente -->
 <div
 	class="p-12 text-center relative overflow-hidden bg-no-repeat bg-cover"
 	style="
-   background-image: url('https://mdbcdn.b-cdn.net/img/new/slides/041.webp');
-   height: 400px;
+   background-image: url({dreisessel});
+   background-position: center; 
+   height: 500px;
  "
 >
 	<div
@@ -16,8 +19,8 @@
 	>
 		<div class="flex justify-center items-center h-full">
 			<div class="text-white">
-				<h2 class="font-semibold text-4xl mb-4">Förderverein Schutzhaus Dreisessel</h2>
-				<h4 class="font-semibold text-xl mb-6">Willkommen</h4>
+				<h2 class="font-semibold text-4xl mb-4 text-beige">Förderverein Schutzhaus Dreisessel</h2>
+				<h4 class="font-semibold text-xl mb-6 text-beige">Willkommen</h4>
 			</div>
 		</div>
 	</div>
@@ -27,17 +30,8 @@
 <section class="py-20 bg-white">
 	<div class="flex flex-col px-8 mx-auto space-y-12 max-w-7xl xl:px-12">
 		<!-- Section: Design Block -->
-		<section class="mb-32 text-gray-800">
-			<h1 class="font-bold text-3xl mb-4">Liebe Berg- und Wanderfreunde,</h1>
-
-			<!--
-      <p class="uppercase text-red-600 font-bold mb-6 flex items-center">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" class="w-4 h-4 mr-2">
-          <path fill="currentColor"
-            d="M216 23.86c0-23.8-30.65-32.77-44.15-13.04C48 191.85 224 200 224 288c0 35.63-29.11 64.46-64.85 63.99-35.17-.45-63.15-29.77-63.15-64.94v-85.51c0-21.7-26.47-32.23-41.43-16.5C27.8 213.16 0 261.33 0 320c0 105.87 86.13 192 192 192s192-86.13 192-192c0-170.29-168-193-168-296.14z" />
-          </svg>Hot news
-      </p>
-    -->
+		<section class="text-gray-800">
+			<h1 class="font-bold text-3xl mb-4 text-gruen">Liebe Berg- und Wanderfreunde,</h1>
 
 			<p class="mb-6">
 				unser Dreisessel ist einer der markantesten Berge des Bayerwaldes und bietet zu jeder
@@ -89,11 +83,33 @@
 				/>
 			</div>
 			<p class="mb-6">
-				<b>Walter Bermann</b><br />
+				<b class="text-gruen">Walter Bermann</b><br />
 				Vorsitzender der Wald-Verein Sektion Dreisessel e.V.
 			</p>
 		</section>
 		<!-- Section: Design Block -->
+		<section class="mb-32 text-gray-800">
+			<h1 class="font-bold text-3xl mb-4 text-gruen">Zusammenarbeit mit der Waldvereins-Sektion Dreisessel e. V.</h1>
+
+			<p class="mb-6">
+				Bei der Sanierung und natürlich
+				auch beim künftigen Betrieb des
+				Gasthauses am Dreisessel arbeiten
+				der Pächter Philipp Schmöller und der
+				Besitzer des Anwesens, die Bayerische
+				Waldvereins-Sektion Dreisessel e. V., Hand
+				in Hand. Gemeinsames Ziel ist es, das Dreisesselschutzhaus
+				wieder zu einem Juwel
+				der Gegend zu machen. Dabei soll der
+				Waldverein präsent sein, beispielsweise
+				durch Vereinsabende für Mitglieder oder
+				einem regelmäßigen Vereinsstammtisch.
+				Es hilft, den Waldverein noch bekannter
+				zu machen, den persönlichen Kontakt
+				zu pflegen und gerne neue Mitglieder zu
+				gewinnen.
+			</p>
+		</section>
 	</div>
 	<!-- Container for demo purpose -->
 </section>

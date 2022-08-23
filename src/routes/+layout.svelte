@@ -11,11 +11,11 @@
 
 <div class="flex flex-col h-screen">
 <!-- navbar goes here -->
-<nav class="bg-gray-100 fixed inset-x-0 z-10 top-0">
+<nav class="bg-beige fixed inset-x-0 z-10 top-0">
 	<div class="max-w-7xl mx-auto px-8 xl:px-12">
 		<div class="flex justify-between">
 			<!-- primary nav -->
-			<div class="hidden md:flex items-center space-x-1">
+			<div class="hidden lg:flex items-center space-x-1">
 				<img style="height: 40px;" src={logoHaus} alt="Förderverein Schutzhaus Dreisessel" class="mr-3 h-8">
 				<a
 					href="/"
@@ -39,18 +39,18 @@
 					>Aktuelles</a>
 			</div>
 			<!-- secondary nav -->
-			<div class="hidden md:flex items-center space-x-1">
+			<div class="hidden lg:flex items-center space-x-1">
 				<a
 					href="/spenden"
-					class="py-2 px-3 bg-green-400 text-white hover:bg-green-300 text-sm hover:text-yellow-800 rounded transition duration-300"
+					class="py-2 px-3 bg-gruen text-white hover:bg-gruen text-sm hover:text-gelb rounded transition duration-300"
 					>Spenden</a
 				>
 			</div>
 			<!-- mobile button goes here -->
-			<div class="md:hidden flex items-center space-x-1">
+			<div class="lg:hidden flex items-center space-x-1">
 				<img style="height: 40px;" src={logoHaus} alt="Förderverein Schutzhaus Dreisessel" class="mr-3 h-8">
 			</div>
-			<div class="md:hidden flex items-center space-x-1 h-16 float-right cursor-pointer" on:click="{toggleMenu}">
+			<div class="lg:hidden flex items-center space-x-1 h-16 float-right cursor-pointer" on:click="{toggleMenu}">
 				<div class="space-y-2">
 					<div class="w-8 h-0.5 bg-gray-600"></div>
 					<div class="w-8 h-0.5 bg-gray-600"></div>
@@ -60,7 +60,7 @@
 		</div>
 	</div>
 	<!-- mobile menu -->
-	<div class="mobile-menu hidden md:hidden">
+	<div class="mobile-menu hidden lg:hidden">
 		<a href="/" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Startseite</a>
 		<a href="/geschichte" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Geschichte</a>
 		<a href="/umbau" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Die Renovierung</a>
@@ -75,10 +75,10 @@
 	<slot />
 </div>
 
-<footer class="p-4 bg-gray-100 shadow md:px-6 text-gray-600 ">
-    <div class="sm:flex sm:items-center sm:justify-between">
+<footer class="p-4 bg-beige shadow text-gray-600 ">
+    <div class="flex items-center justify-between">
 		<img style="height: 40px;" src={logoSmall} alt="Förderverein Schutzhaus Dreisessel" class="mr-3 h-8">
-        <ul class="flex flex-wrap items-center mb-6 text-sm text-gray-500 sm:mb-0 dark:text-gray-400">
+        <ul class="flex flex-wrap items-center text-sm text-gray-500 sm:mb-0 dark:text-gray-400">
             <li>
                 <a href="/impressum" class="mr-4 hover:underline md:mr-6 ">Impressum</a>
             </li>
