@@ -1,8 +1,12 @@
 <script>
 	import bermann from '$lib/assets/WalterBermann.png';
 	import dreisessel from '$lib/assets/Dreisessel.jpg';
-
 </script>
+
+<svelte:head>
+	<title>Startseite</title>
+	<html lang="de" />
+</svelte:head>
 
 <!-- Background image TODO: Eigene Componente -->
 <div
@@ -89,25 +93,18 @@
 		</section>
 		<!-- Section: Design Block -->
 		<section class="mb-32 text-gray-800">
-			<h1 class="font-bold text-3xl mb-4 text-gruen">Zusammenarbeit mit der Waldvereins-Sektion Dreisessel e. V.</h1>
+			<h1 class="font-bold text-3xl mb-4 text-gruen">
+				Zusammenarbeit mit der Waldvereins-Sektion Dreisessel e. V.
+			</h1>
 
 			<p class="mb-6">
-				Bei der Sanierung und natürlich
-				auch beim künftigen Betrieb des
-				Gasthauses am Dreisessel arbeiten
-				der Pächter Philipp Schmöller und der
-				Besitzer des Anwesens, die Bayerische
-				Waldvereins-Sektion Dreisessel e. V., Hand
-				in Hand. Gemeinsames Ziel ist es, das Dreisesselschutzhaus
-				wieder zu einem Juwel
-				der Gegend zu machen. Dabei soll der
-				Waldverein präsent sein, beispielsweise
-				durch Vereinsabende für Mitglieder oder
-				einem regelmäßigen Vereinsstammtisch.
-				Es hilft, den Waldverein noch bekannter
-				zu machen, den persönlichen Kontakt
-				zu pflegen und gerne neue Mitglieder zu
-				gewinnen.
+				Bei der Sanierung und natürlich auch beim künftigen Betrieb des Gasthauses am Dreisessel
+				arbeiten der Pächter Philipp Schmöller und der Besitzer des Anwesens, die Bayerische
+				Waldvereins-Sektion Dreisessel e. V., Hand in Hand. Gemeinsames Ziel ist es, das
+				Dreisesselschutzhaus wieder zu einem Juwel der Gegend zu machen. Dabei soll der Waldverein
+				präsent sein, beispielsweise durch Vereinsabende für Mitglieder oder einem regelmäßigen
+				Vereinsstammtisch. Es hilft, den Waldverein noch bekannter zu machen, den persönlichen
+				Kontakt zu pflegen und gerne neue Mitglieder zu gewinnen.
 			</p>
 		</section>
 	</div>

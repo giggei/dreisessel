@@ -6,6 +6,11 @@
 	import schutzhaus from '$lib/assets/schutzhaus.jpg';
 </script>
 
+<svelte:head>
+	<title>Umbau</title>
+	<html lang="de" />
+</svelte:head>
+
 <!-- Background image TODO: Eigene Componente -->
 <div
 	class="p-12 text-center relative overflow-hidden bg-no-repeat bg-cover"

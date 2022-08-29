@@ -7,6 +7,11 @@
 	import natur from '$lib/assets/natur.jpg';
 </script>
 
+<svelte:head>
+	<title>Pächter</title>
+	<html lang="de" />
+</svelte:head>
+
 <section class="py-20 bg-white">
 	<div class="flex flex-col px-8 mx-auto space-y-12 max-w-7xl xl:px-12">
 		<div class="relative">
