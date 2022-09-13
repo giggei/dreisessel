@@ -3,8 +3,6 @@
 	import logoHaus from "$lib/assets/schutzhaus_klein.png"
 	import "../app.css";
 
-	export const prerender = true;
-
 	const toggleMenu = () => {
 		const menu = document.querySelector(".mobile-menu");
 		if (menu !== null) menu.classList.toggle("hidden");
