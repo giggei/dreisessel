@@ -1,6 +1,7 @@
 <script>
 	import bermann from '$lib/assets/WalterBermann.png';
 	import dreisessel from '$lib/assets/Dreisessel.jpg';
+	import pdf from '$lib/assets/Dreisesselschutzhaus_Broschüre.pdf';
 </script>
 
 <svelte:head>
@@ -91,6 +92,14 @@
 				Vorsitzender der Wald-Verein Sektion Dreisessel e.V.
 			</p>
 		</section>
+		<div class="flex items-center space-x-1">
+			<a
+				href={pdf}
+				download
+				class="py-2 px-3 bg-gruen text-white hover:bg-gruen text-sm hover:text-gelb rounded transition duration-300"
+				>Download PDF Broschüre</a
+			>
+		</div>
 		<!-- Section: Design Block -->
 		<section class="mb-32 text-gray-800">
 			<h1 class="font-bold text-3xl mb-4 text-gruen">
