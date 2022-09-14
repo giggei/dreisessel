@@ -1,5 +1,6 @@
 <script>
 	//import timeline from '$lib/assets/data/timeline.json';
+	import QRCode from './QRCode.svelte';
 </script>
 
 <svelte:head>
@@ -26,16 +27,16 @@
 				eine Spendenquittung.
 			</p>
 
-			<div class="grid place-items-center ">
+			<div class="grid">
 				<h1 class="font-bold text-3xl mb-4 text-gruen">
 					Bitte überweisen Sie Ihre Spende auf folgendes Konto:
 				</h1>
 
-				<div class="bg-gelb border rounded-md shadow-lg dark:border-gray-100 p-4 xl:w-1/2">
-					<div class="flex p-4">
-						<div class="">
+				<div class="bg-gelb border rounded-md shadow-lg dark:border-gray-100 p-4 lg:w-1/2">
+					<div class="flex place-items-center p-4">
+						<div>
 							<blockquote>
-								<div class="place-content-center">
+								<div>
 									<p class="text-gray-800 sm:text-xl">
 										<em>
 											<p><b>Förderverein Schutzhaus Dreisessel e.V.</b></p>
@@ -44,6 +45,9 @@
 											<p>Betreff: Spende Schutzhaus Dreisessel</p>
 										</em>
 									</p>
+									<br/>
+									<QRCode/>
+									Scannen Sie einfach diesen Code mit Ihrer Banking-App!
 								</div>
 							</blockquote>
 						</div>
