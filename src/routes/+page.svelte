@@ -92,13 +92,23 @@
 				Vorsitzender der Wald-Verein Sektion Dreisessel e.V.
 			</p>
 		</section>
-		<div class="flex items-center space-x-1">
-			<a
-				href={pdf}
-				download
-				class="py-2 px-3 bg-gruen text-white hover:bg-gruen text-sm hover:text-gelb rounded transition duration-300"
-				>Download PDF Broschüre</a
-			>
+		<div class="flex flex-row">
+			<div class="items-center space-x-1 mr-6">
+				<a
+					href="/spenden"
+					download
+					class="py-2 px-3 bg-gruen text-white hover:bg-gruen text-sm hover:text-gelb rounded transition duration-300"
+					>Jetzt Spenden!</a
+				>
+			</div>
+			<div class="items-center space-x-1">
+				<a
+					href={pdf}
+					download
+					class="py-2 px-3 bg-gruen text-white hover:bg-gruen text-sm hover:text-gelb rounded transition duration-300"
+					>Download PDF Broschüre</a
+				>
+			</div>
 		</div>
 		<!-- Section: Design Block -->
 		<section class="mb-32 text-gray-800">

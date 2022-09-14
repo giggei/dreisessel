@@ -43,7 +43,7 @@
 				<a
 					href="/spenden"
 					class="py-2 px-3 bg-gruen text-white hover:bg-gruen text-sm hover:text-gelb rounded transition duration-300"
-					>Spenden</a
+					>Jetzt Spenden!</a
 				>
 			</div>
 			<!-- mobile button goes here -->
@@ -66,7 +66,7 @@
 		<a href="/umbau" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Die Renovierung</a>
 		<a href="/paechter" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Der Pächter</a>
 		<a href="/blog" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Aktuelles</a>
-		<a href="/spenden" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Spenden</a>
+		<a href="/spenden" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Jetzt Spenden</a>
 	</div>
 </nav>
 <!-- content goes here -->
