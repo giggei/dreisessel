@@ -1,7 +1,7 @@
 <script>
 	import bermann from '$lib/assets/WalterBermann.png';
 	import dreisessel from '$lib/assets/Dreisessel.jpg';
-	import pdf from '$lib/assets/Dreisesselschutzhaus_Broschüre.pdf';
+	//import pdf from '$lib/assets/Dreisesselschutzhaus_Broschüre.pdf';
 </script>
 
 <svelte:head>
@@ -102,7 +102,7 @@
 			</div>
 			<div class="items-center space-x-1 mr-6 pt-4">
 				<a
-					href={pdf}
+					href="https://waldverein-dreisessel.de/wp-content/uploads/2022/09/Dreisesselschutzhaus_Broschuere.pdf"
 					download
 					class="py-2 px-3 bg-gruen text-white hover:bg-gruen text-sm hover:text-gelb rounded transition duration-300"
 					>Download PDF Broschüre</a
