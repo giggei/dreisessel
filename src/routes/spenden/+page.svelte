@@ -27,7 +27,16 @@
 				eine Spendenquittung.
 			</p>
 
-			<div class="grid">
+			<div class="bg-gelb border rounded-md shadow-lg dark:border-gray-100 p-4 lg:w-1/2">
+				<div class="flex place-items-center p-4">
+					<div>
+						<h1 class="font-bold text-2xl">Aktuelle Spendensumme: 25.678,16 €</h1>
+						(Stand: 19.09.2022)
+					</div>
+				</div>
+			</div>
+
+			<div class="grid mt-5">
 				<h1 class="font-bold text-3xl mb-4 text-gruen">
 					Bitte überweisen Sie Ihre Spende auf folgendes Konto:
 				</h1>
