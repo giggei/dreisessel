@@ -27,15 +27,6 @@
 				eine Spendenquittung.
 			</p>
 
-			<div class="bg-gelb border rounded-md shadow-lg dark:border-gray-100 p-4 lg:w-1/2">
-				<div class="flex place-items-center p-4">
-					<div>
-						<h1 class="font-bold text-2xl">Aktuelle Spendensumme: 25.678,16 €</h1>
-						(Stand: 19.09.2022)
-					</div>
-				</div>
-			</div>
-
 			<div class="grid mt-5">
 				<h1 class="font-bold text-3xl mb-4 text-gruen">
 					Bitte überweisen Sie Ihre Spende auf folgendes Konto:
@@ -54,8 +45,8 @@
 											<p>Betreff: Spende Schutzhaus Dreisessel</p>
 										</em>
 									</p>
-									<br/>
-									<QRCode/>
+									<br />
+									<QRCode />
 									Scannen Sie einfach diesen Code mit Ihrer Banking-App!
 								</div>
 							</blockquote>
@@ -63,8 +54,82 @@
 					</div>
 				</div>
 
-				<h1 class="font-bold text-3xl my-4 text-gruen">Vielen Dank</h1>
+				<h1 class="font-bold text-3xl my-4 text-gruen">Vielen Dank an alle Spender!</h1>
 			</div>
+
+			<div class="bg-gelb border rounded-md shadow-lg dark:border-gray-100 p-4 lg:w-1/2">
+				<div class="flex place-items-center p-4">
+					<div>
+						<h1 class="font-bold text-2xl">Aktuelle Spendensumme: 61.773,76 €</h1>
+						(Stand: 01.10.2022)
+					</div>
+				</div>
+				<!-- component -->
+				<!-- do not show for now
+				<section class="antialiased bg-gray-100 text-gray-600">
+					<div class="flex flex-col justify-center">
+						<div
+							class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
+						>
+							<header class="px-5 py-4 border-b border-gray-100">
+								<h2 class="font-semibold text-gray-800">Spenden</h2>
+							</header>
+							<div class="p-3">
+								<div class="overflow-x-auto">
+									<table class="table-auto w-full">
+										<thead class="text-xs font-semibold uppercase text-gray-400 bg-gray-50">
+											<tr>
+												<th class="p-2 whitespace-nowrap">
+													<div class="font-semibold text-left">Name</div>
+												</th>
+												<th class="p-2 whitespace-nowrap">
+													<div class="font-semibold text-left">Spendensumme</div>
+												</th>
+											</tr>
+										</thead>
+										<tbody class="text-sm divide-y divide-gray-100">
+											<tr>
+												<td class="p-2 whitespace-nowrap">
+													<div class="text-left">Knaus Tabbert AG</div>
+												</td>
+												<td class="p-2 whitespace-nowrap">
+													<div class="text-left">€</div>
+												</td>
+											</tr>
+											<tr>
+												<td class="p-2 whitespace-nowrap">
+													<div class="text-left">PARAT GmbH + Co. KG</div>
+												</td>
+												<td class="p-2 whitespace-nowrap">
+													<div class="text-left">€</div>
+												</td>
+											</tr>
+											<tr>
+												<td class="p-2 whitespace-nowrap">
+													<div class="text-left">JOSEF RÄDLINGER INGENIEURBAU GMBH</div>
+												</td>
+												<td class="p-2 whitespace-nowrap">
+													<div class="text-left">€</div>
+												</td>
+											</tr>
+											<tr>
+												<td class="p-2 whitespace-nowrap">
+													<div class="text-left">Gemeinde Schwarzenberg</div>
+												</td>
+												<td class="p-2 whitespace-nowrap">
+													<div class="text-left">€</div>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+				-->
+			</div>
+
 		</div>
 	</div>
 </section>
