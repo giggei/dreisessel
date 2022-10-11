@@ -60,8 +60,8 @@
 			<div class="bg-gelb border rounded-md shadow-lg dark:border-gray-100 p-4 lg:w-1/2">
 				<div class="flex place-items-center p-4">
 					<div>
-						<h1 class="font-bold text-2xl">Aktuelle Spendensumme: 61.773,76 €</h1>
-						(Stand: 01.10.2022)
+						<h1 class="font-bold text-2xl">Aktuelle Spendensumme: 82.051,58 €</h1>
+						(Stand: 10.10.2022)
 					</div>
 				</div>
 				<!-- component -->
