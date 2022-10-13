@@ -27,12 +27,14 @@
 				eine Spendenquittung.
 			</p>
 
-			<div class="grid mt-5">
+			<div class="grid mt-5 place-content-center">
 				<h1 class="font-bold text-3xl mb-4 text-gruen">
 					Bitte überweisen Sie Ihre Spende auf folgendes Konto:
 				</h1>
 
-				<div class="bg-gelb border rounded-md shadow-lg dark:border-gray-100 p-4 lg:w-1/2">
+				<div
+					class="bg-gelb border rounded-md shadow-lg dark:border-gray-100 p-4 place-content-center"
+				>
 					<div class="flex place-items-center p-4">
 						<div>
 							<blockquote>
@@ -55,81 +57,296 @@
 				</div>
 
 				<h1 class="font-bold text-3xl my-4 text-gruen">Vielen Dank an alle Spender!</h1>
-			</div>
 
-			<div class="bg-gelb border rounded-md shadow-lg dark:border-gray-100 p-4 lg:w-1/2">
-				<div class="flex place-items-center p-4">
-					<div>
-						<h1 class="font-bold text-2xl">Aktuelle Spendensumme: 82.051,58 €</h1>
-						(Stand: 10.10.2022)
+				<div
+					class="bg-gelb border rounded-md shadow-lg dark:border-gray-100 p-4 place-content-center"
+				>
+					<div class="flex place-items-center p-4">
+						<div>
+							<h1 class="font-bold text-2xl">Aktuelle Spendensumme: 82.051,58 €</h1>
+							(Stand: 10.10.2022)
+						</div>
 					</div>
-				</div>
-				<!-- component -->
-				<!-- do not show for now
-				<section class="antialiased bg-gray-100 text-gray-600">
-					<div class="flex flex-col justify-center">
-						<div
-							class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
-						>
-							<header class="px-5 py-4 border-b border-gray-100">
-								<h2 class="font-semibold text-gray-800">Spenden</h2>
-							</header>
-							<div class="p-3">
-								<div class="overflow-x-auto">
-									<table class="table-auto w-full">
-										<thead class="text-xs font-semibold uppercase text-gray-400 bg-gray-50">
-											<tr>
-												<th class="p-2 whitespace-nowrap">
-													<div class="font-semibold text-left">Name</div>
-												</th>
-												<th class="p-2 whitespace-nowrap">
-													<div class="font-semibold text-left">Spendensumme</div>
-												</th>
-											</tr>
-										</thead>
-										<tbody class="text-sm divide-y divide-gray-100">
-											<tr>
-												<td class="p-2 whitespace-nowrap">
-													<div class="text-left">Knaus Tabbert AG</div>
-												</td>
-												<td class="p-2 whitespace-nowrap">
-													<div class="text-left">€</div>
-												</td>
-											</tr>
-											<tr>
-												<td class="p-2 whitespace-nowrap">
-													<div class="text-left">PARAT GmbH + Co. KG</div>
-												</td>
-												<td class="p-2 whitespace-nowrap">
-													<div class="text-left">€</div>
-												</td>
-											</tr>
-											<tr>
-												<td class="p-2 whitespace-nowrap">
-													<div class="text-left">JOSEF RÄDLINGER INGENIEURBAU GMBH</div>
-												</td>
-												<td class="p-2 whitespace-nowrap">
-													<div class="text-left">€</div>
-												</td>
-											</tr>
-											<tr>
-												<td class="p-2 whitespace-nowrap">
-													<div class="text-left">Gemeinde Schwarzenberg</div>
-												</td>
-												<td class="p-2 whitespace-nowrap">
-													<div class="text-left">€</div>
-												</td>
-											</tr>
-										</tbody>
-									</table>
+					<!-- component -->
+
+					<section class="antialiased text-gray-600">
+						<div class="flex flex-col justify-center">
+							<div
+								class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
+							>
+								<header class="px-5 py-4 border-b border-gray-100">
+									<h2 class="font-semibold text-gray-800">Spenden ab 5000€</h2>
+								</header>
+								<div class="p-3">
+									<div class="overflow-x-auto">
+										<table class="table-auto w-full">
+											<tbody class="text-sm divide-y divide-gray-100">
+												<tr>
+													<td class="p-2 whitespace-nowrap">
+														<div class="text-left">Knaus Tabbert AG</div>
+													</td>
+												</tr>
+												<tr>
+													<td class="p-2 whitespace-nowrap">
+														<div class="text-left">PARAT GmbH + Co. KG</div>
+													</td>
+												</tr>
+												<tr>
+													<td class="p-2 whitespace-nowrap">
+														<div class="text-left">RGR Real-Estate-One GmbH</div>
+													</td>
+												</tr>
+												<tr>
+													<td class="p-2 whitespace-nowrap">
+														<div class="text-left">Richter, Ottensoos</div>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+									</div>
+								</div>
+								<header class="px-5 py-4 border-b border-gray-100">
+									<h2 class="font-semibold text-gray-800">Spenden von 1000€ bis 4999,99€</h2>
+								</header>
+								<div class="p-3">
+									<div class="overflow-x-auto">
+										<table class="table-auto w-full">
+											<tbody class="text-sm divide-y divide-gray-100">
+												<tr>
+													<td class="p-2 whitespace-nowrap">
+														<div class="text-left">Eggerstorfer Aßberg</div>
+													</td>
+												</tr>
+												<tr>
+													<td class="p-2 whitespace-nowrap">
+														<div class="text-left">Gross Karl-Heinz Moos</div>
+													</td>
+												</tr>
+												<tr>
+													<td class="p-2 whitespace-nowrap">
+														<div class="text-left">KDNR bulicek+ingeneure GmbH Passau</div>
+													</td>
+												</tr>
+												<tr>
+													<td class="p-2 whitespace-nowrap">
+														<div class="text-left">Josef Rädlinger Bauunternehmen Windorf</div>
+													</td>
+												</tr>
+												<tr>
+													<td class="p-2 whitespace-nowrap">
+														<div class="text-left">PRO BAU Ingenieur- und Rohrleitungsbau GmbH</div>
+													</td>
+												</tr>
+												<tr>
+													<td class="p-2 whitespace-nowrap">
+														<div class="text-left">Franz Schelle GMBH &CO KG Pfaffenhofen</div>
+													</td>
+												</tr>
+												<tr>
+													<td class="p-2 whitespace-nowrap">
+														<div class="text-left">Karl Bachl Röhrnbach</div>
+													</td>
+												</tr>
+												<tr>
+													<td class="p-2 whitespace-nowrap">
+														<div class="text-left">Bermann Frieda Lackenhäuser</div>
+													</td>
+												</tr>
+												<tr>
+													<td class="p-2 whitespace-nowrap">
+														<div class="text-left">Bermann Walter Lackenhäuser</div>
+													</td>
+												</tr>
+												<tr>
+													<td class="p-2 whitespace-nowrap">
+														<div class="text-left">Nebl Walter und Michael Neureichenau</div>
+													</td>
+												</tr>
+												<tr>
+													<td class="p-2 whitespace-nowrap">
+														<div class="text-left">Dr. Bernhard Becker Wandenburg</div>
+													</td>
+												</tr>
+												<tr>
+													<td class="p-2 whitespace-nowrap">
+														<div class="text-left">Fuchs Helmut Passau</div>
+													</td>
+												</tr>
+												<tr>
+													<td class="p-2 whitespace-nowrap">
+														<div class="text-left">Garhammer Modehaus Waldkirchen</div>
+													</td>
+												</tr>
+												<tr>
+													<td class="p-2 whitespace-nowrap">
+														<div class="text-left">Schäfer Harald</div>
+													</td>
+												</tr>
+												<tr>
+													<td class="p-2 whitespace-nowrap">
+														<div class="text-left">Hl. Geist Apotheke Dr. Birgit Schröger</div>
+													</td>
+												</tr>
+												<tr>
+													<td class="p-2 whitespace-nowrap">
+														<div class="text-left">Holz Balk GmbH & Co.KG</div>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+									</div>
+								</div>
+								<header class="px-5 py-4 border-b border-gray-100">
+									<h2 class="font-semibold text-gray-800">Spenden bis 999,99€</h2>
+								</header>
+								<div class="p-3">
+									<div class="overflow-x-auto">
+										<table class="table-auto w-full">
+											<tbody class="text-sm divide-y divide-gray-100">
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Raab, Heinz Neureichenau</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Boehm Michael Anzing</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">IGL Putz + Partner</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Ralph Peschl</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Drs. Knollmüller Waldkirchen</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Schmidbauer Dr. Siegfried und Dagmar</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Schroeger Rita</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Forst Grabmeier Horst Neureichenau</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Waldverein Sektion (2019) Freyung</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Alt-und Neureichenau Forstamt</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Schmöller Anna Waldkirchen</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Mang Reinhard</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Nave Heinz und Gabriele</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Limmer Waldkirchen</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Raab Margit und Franz Neureichenau</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Gaaß Ludwig Neureichenau</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">M.Lang und S. Koblbauer</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Dersch Waldkirchen/lackenhäuser</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Meinzel Monika</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Beyer Hans</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Egger Klaudia</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Pollner Schreibwaren</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Raab Margit und Franz Neureichenau</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Lutz Marion und Christoph</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">HIB Eisenwaren Waldkirchen</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Gell Dominik</div></td
+													></tr
+												>
+												<tr
+													><td class="p-2 whitespace-nowrap"
+														><div class="text-left">Maria Peter</div></td
+													></tr
+												>
+											</tbody>
+										</table>
+									</div>
 								</div>
 							</div>
 						</div>
-					</div>
-				</section>
-				-->
+					</section>
+				</div>
 			</div>
-
 		</div>
 	</div>
 </section>
