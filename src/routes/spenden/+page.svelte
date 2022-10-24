@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme: 82.051,58 €</h1>
-					<div class="mb-2">(Stand: 10.10.2022)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  92.506,58 €</h1>
+					<div class="mb-2">(Stand: 24.10.2022)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -81,7 +81,7 @@
 										</tr>
 										<tr>
 											<td class="p-2 whitespace-nowrap">
-												<div class="text-left">PARAT GmbH + Co. KG</div>
+												<div class="text-left">PARAT GmbH & Co. KG</div>
 											</td>
 										</tr>
 										<tr>
@@ -92,6 +92,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Richter, Ottensoos</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">BPR Dr. Schaepertoens Consult GmbH & Co. KG</div>
 											</td>
 										</tr>
 									</tbody>
@@ -128,6 +133,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">PRO BAU Ingenieur- und Rohrleitungsbau GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Herzig GmbH Waldkirchen</div>
 											</td>
 										</tr>
 										<tr>
