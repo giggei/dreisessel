@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  92.506,58 €</h1>
-					<div class="mb-2">(Stand: 24.10.2022)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme: 98.522,58 €</h1>
+					<div class="mb-2">(Stand: 26.10.2022)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -193,6 +193,16 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Holz Balk GmbH & Co.KG</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Marienapotheke Franz Bumberger</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">ageno Dr. Amann Gerauer Noebauer</div>
 											</td>
 										</tr>
 									</tbody>
@@ -330,16 +340,46 @@
 												><div class="text-left">HIB Eisenwaren Waldkirchen</div></td
 											></tr
 										>
-										<tr
-											><td class="p-2 whitespace-nowrap"
-												><div class="text-left">Gell Dominik</div></td
-											></tr
-										>
-										<tr
-											><td class="p-2 whitespace-nowrap"
-												><div class="text-left">Maria Peter</div></td
-											></tr
-										>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Gell Dominik</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Maria Peter</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Huber Brigitte</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Praxl Paul</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Stadlbauer Günther und Veronika</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Stockinger Max und Andrea</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Fischer Miachel</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Taeger Christoph</div>
+											</td>
+										</tr>
 									</tbody>
 								</table>
 							</div>
