@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme: 98.522,58 €</h1>
-					<div class="mb-2">(Stand: 26.10.2022)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  107.087,58 €</h1>
+					<div class="mb-2">(Stand: 07.11.2022)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -97,6 +97,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">BPR Dr. Schaepertoens Consult GmbH & Co. KG</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Mayerhofer, Hoch-Tief und Ingenieurbau GmbH</div>
 											</td>
 										</tr>
 									</tbody>
@@ -205,6 +210,11 @@
 												<div class="text-left">ageno Dr. Amann Gerauer Noebauer</div>
 											</td>
 										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Gibis Christine und Franz</div>
+											</td>
+										</tr>
 									</tbody>
 								</table>
 							</div>
@@ -263,7 +273,7 @@
 										>
 										<tr
 											><td class="p-2 whitespace-nowrap"
-												><div class="text-left">Alt-und Neureichenau Forstamt</div></td
+												><div class="text-left">Jagdgenossenschaft Alt-und Neureichenau</div></td
 											></tr
 										>
 										<tr
@@ -378,6 +388,46 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Taeger Christoph</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Kittl Max</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Gemeinderat Neureichenau</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Auto Kornexl & Lenz GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Geier Dr. Wolfgang und Edith</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Brunner Max</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Spitzenberger Otto</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Monika Bloessl</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Achim Baier</div>
 											</td>
 										</tr>
 									</tbody>
