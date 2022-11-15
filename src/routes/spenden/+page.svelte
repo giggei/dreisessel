@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  107.087,58 €</h1>
-					<div class="mb-2">(Stand: 07.11.2022)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme: 117.057,58 €</h1>
+					<div class="mb-2">(Stand: 14.11.2022)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -102,6 +102,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Mayerhofer, Hoch-Tief und Ingenieurbau GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">SPARKASSE Passau</div>
 											</td>
 										</tr>
 									</tbody>
@@ -213,6 +218,21 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Gibis Christine und Franz</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Nigl & Mader GmbH technische Planung</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">act-consult AG Ingenieurgesellschaft u. Untern.b.</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Leipfinger-Bader GMB</div>
 											</td>
 										</tr>
 									</tbody>
@@ -428,6 +448,36 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Achim Baier</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Kaspar Reinhold</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Brunner Franz und Marianne</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Jagdgenossenschaft Gsenget (Fesl Herbert)</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Sektion Leopoldsreut</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Fischereiverein Neureichenau (Penzenstadler Werner)</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Stockinger Thomas GmbH</div>
 											</td>
 										</tr>
 									</tbody>
