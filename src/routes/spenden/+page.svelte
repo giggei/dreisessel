@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme: 117.057,58 €</h1>
-					<div class="mb-2">(Stand: 14.11.2022)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  120.207,58 €</h1>
+					<div class="mb-2">(Stand: 21.11.2022)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -233,6 +233,16 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Leipfinger-Bader GMB</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Franz Carl Nüdling Basaltwerke GmbH & CO KG</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">FFW Gsenget (Krinninger Josef)</div>
 											</td>
 										</tr>
 									</tbody>
@@ -478,6 +488,21 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Stockinger Thomas GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Tourismusverein Altreichenau</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Plank Norbert</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Radspieler Manuela u. Bauer Christian</div>
 											</td>
 										</tr>
 									</tbody>
