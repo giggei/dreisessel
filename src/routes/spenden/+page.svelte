@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  120.207,58 €</h1>
-					<div class="mb-2">(Stand: 21.11.2022)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:   126.707,58 €</h1>
+					<div class="mb-2">(Stand: 12.12.2022)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -243,6 +243,21 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">FFW Gsenget (Krinninger Josef)</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">JELBA GmbH & co KG</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Blössl Norbert Spenglerei</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Estendorfer Franz</div>
 											</td>
 										</tr>
 									</tbody>
@@ -503,6 +518,76 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Radspieler Manuela u. Bauer Christian</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Bermann Hans</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Weidner Elisabeth, Jagdpächterin</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Kern Wolfgang, Jagdpächter</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Brunner Holding GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Jaschke Barbara und Klaus</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Holz Peter OHG</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Süss Ludwig</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Pohl Hans-Jürgen</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Kindermann Josef und Stefan</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">B & M Handels GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Aporta Jutta und Rolf</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Roeder Tanja</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Ritzer Thomas</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Waldverein Ebersberg</div>
 											</td>
 										</tr>
 									</tbody>
