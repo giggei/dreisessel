@@ -318,7 +318,7 @@
 										>
 										<tr
 											><td class="p-2 whitespace-nowrap"
-												><div class="text-left">Jagdgenossenschaft Alt-und Neureichenau</div></td
+												><div class="text-left">Jagdreviere Alt-und Neureichenau</div></td
 											></tr
 										>
 										<tr
