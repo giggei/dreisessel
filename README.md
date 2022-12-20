@@ -21,4 +21,4 @@ npm run build
 
 You can preview the production build with `npm run preview`.
 
-> Ready for deployment to render.com
+> Ready for the deployment to render.com
