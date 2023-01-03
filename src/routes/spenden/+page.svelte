@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:    140.247,58 €</h1>
-					<div class="mb-2">(Stand: 20.12.2022)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:   154.047,58 €</h1>
+					<div class="mb-2">(Stand: 02.01.2023)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -112,6 +112,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Pfaffinger Josef Bauunternehmung GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Rosenberger Johann</div>
 											</td>
 										</tr>
 									</tbody>
@@ -278,6 +283,26 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Stahl Irrgang Stahlhandel GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">RAIBA Golderner Steig</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">RAIBA Dreisessel</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Kittl Johann</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Angerer Reiner</div>
 											</td>
 										</tr>
 									</tbody>
@@ -668,6 +693,67 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Sparkasse FRG</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">BAM GmbH & Co. KG für Straßenbaustoffe</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Bouille Jacques</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Wirkert Josef und Anna</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Hartl Christine</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Bumberger Gabriele und Alois</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Schmid Ingrid</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Oberneder Herbert</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Weigerstorfer Helmut</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Schwind Bauingenieure</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Hoyer Andreas</div>
+											</td>
+										</tr>
+										
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Hoyer Waltraud</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Gutsmiedl Josef</div>
 											</td>
 										</tr>
 									</tbody>
