@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:   126.707,58 €</h1>
-					<div class="mb-2">(Stand: 12.12.2022)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:    140.247,58 €</h1>
+					<div class="mb-2">(Stand: 20.12.2022)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -107,6 +107,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">SPARKASSE Passau</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Pfaffinger Josef Bauunternehmung GmbH</div>
 											</td>
 										</tr>
 									</tbody>
@@ -258,6 +263,21 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Estendorfer Franz</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Schiermeier Andreas</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Hoertreiter-Buchci Thomas</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Stahl Irrgang Stahlhandel GmbH</div>
 											</td>
 										</tr>
 									</tbody>
@@ -588,6 +608,66 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Waldverein Ebersberg</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Panzer Manfred</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Bauzentrum Segl</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Weber Max</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Schützenverein Drei-Länder-Eck, Thuer Daniela</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Weigerstorfer Walter</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Seliger Rainer</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Winkelmann Dr. Dieter und Maria</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Riedl Florian</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Wirtschaftsjunioren Kuchler Josef</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Held Michael</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">SSP Planung GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Sparkasse FRG</div>
 											</td>
 										</tr>
 									</tbody>
