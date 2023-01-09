@@ -572,7 +572,7 @@
 										</tr>
 										<tr>
 											<td class="p-2 whitespace-nowrap">
-												<div class="text-left">Weidner Elisabeth, Jagdpächterin</div>
+												<div class="text-left">Weidner Elisabeth</div>
 											</td>
 										</tr>
 										<tr>
@@ -694,12 +694,7 @@
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Sparkasse FRG</div>
 											</td>
-										</tr>
-										<tr>
-											<td class="p-2 whitespace-nowrap">
-												<div class="text-left">BAM GmbH & Co. KG für Straßenbaustoffe</div>
-											</td>
-										</tr>
+										</tr>										
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Bouille Jacques</div>
