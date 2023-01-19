@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:   154.047,58 €</h1>
-					<div class="mb-2">(Stand: 02.01.2023)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:   154.747,58 €</h1>
+					<div class="mb-2">(Stand: 17.01.2023)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -749,6 +749,21 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Gutsmiedl Josef</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Maier Franz</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Edelmann Ilse und Karl</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Kühberger Metaltechnik GmbH</div>
 											</td>
 										</tr>
 									</tbody>
