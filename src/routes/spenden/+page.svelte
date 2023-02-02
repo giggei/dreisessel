@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:   158.547,58 €</h1>
-					<div class="mb-2">(Stand: 24.01.2023)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  160.547,58 €</h1>
+					<div class="mb-2">(Stand: 31.01.2023)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -313,6 +313,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">m4 Ingenieure GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Schmöller Helmut</div>
 											</td>
 										</tr>
 									</tbody>
@@ -794,6 +799,26 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Möbel Weidinger GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Schmöller Wolfgang</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Berschneider + Berschneider GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Süß Ludwig</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">FFW Lackenhäuser Königseder Michael</div>
 											</td>
 										</tr>
 									</tbody>
