@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  161.697,58 €</h1>
-					<div class="mb-2">(Stand: 10.02.2023)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:   171.497,58 €</h1>
+					<div class="mb-2">(Stand: 17.02.2023)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -117,6 +117,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Rosenberger Johann</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Grunberger Matthias GmbH</div>
 											</td>
 										</tr>
 									</tbody>
@@ -318,6 +323,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Schmöller Helmut</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Eichenseer Alfred, Andreas</div>
 											</td>
 										</tr>
 									</tbody>
@@ -834,6 +844,21 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Kreikenbaum Jörg und Susann</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Schauberger GmbH & Co. KG</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Baumaschinen Weidinger</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Frick Konrad Dr.Dr.</div>
 											</td>
 										</tr>
 									</tbody>
