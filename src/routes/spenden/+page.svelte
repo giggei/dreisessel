@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  173.997,58 €</h1>
-					<div class="mb-2">(Stand: 23.02.2023)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  182.597,58 €</h1>
+					<div class="mb-2">(Stand: 08.03.2023)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -122,6 +122,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Grunberger Matthias GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Raiffeisen Passau Nord</div>
 											</td>
 										</tr>
 									</tbody>
@@ -242,7 +247,9 @@
 										</tr>
 										<tr>
 											<td class="p-2 whitespace-nowrap">
-												<div class="text-left">act-consult AG Ingenieurgesellschaft u. Untern.b.</div>
+												<div class="text-left">
+													act-consult AG Ingenieurgesellschaft u. Untern.b.
+												</div>
 											</td>
 										</tr>
 										<tr>
@@ -577,7 +584,9 @@
 										</tr>
 										<tr>
 											<td class="p-2 whitespace-nowrap">
-												<div class="text-left">Fischereiverein Neureichenau (Penzenstadler Werner)</div>
+												<div class="text-left">
+													Fischereiverein Neureichenau (Penzenstadler Werner)
+												</div>
 											</td>
 										</tr>
 										<tr>
@@ -729,7 +738,7 @@
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Sparkasse FRG</div>
 											</td>
-										</tr>										
+										</tr>
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Bouille Jacques</div>
@@ -775,7 +784,7 @@
 												<div class="text-left">Hoyer Andreas</div>
 											</td>
 										</tr>
-										
+
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Hoyer Waltraud</div>
@@ -879,6 +888,16 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Kath.Kirchenst. Neureichenau Altenclub</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Sektion Frauenau Waldverein</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Praxl Sunnhild</div>
 											</td>
 										</tr>
 									</tbody>
