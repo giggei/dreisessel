@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  191.797,58 €</h1>
-					<div class="mb-2">(Stand: 22.03.2023)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:   206.897,58 €</h1>
+					<div class="mb-2">(Stand: 31.03.2023)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -127,6 +127,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Raiffeisen Passau Nord</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Gemeinde Neureichenau</div>
 											</td>
 										</tr>
 									</tbody>
@@ -360,6 +365,26 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Sparkasse FRG</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Sparkasse Passau</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Marienapotheke</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Hilti Deutschland AG</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Jakob Metall am Bau</div>
 											</td>
 										</tr>
 									</tbody>
@@ -933,6 +958,31 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Meier Leonhard</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Atzesdorfer Max Bau GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Haydn Herbert Autohaus</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Krammer Michael Autohaus</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Massinger Josef</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">KDFB Neureichenau</div>
 											</td>
 										</tr>
 									</tbody>
