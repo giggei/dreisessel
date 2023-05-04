@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:   206.897,58 €</h1>
-					<div class="mb-2">(Stand: 31.03.2023)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  215.197,58 €</h1>
+					<div class="mb-2">(Stand: 04.05.2023)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -132,6 +132,21 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Gemeinde Neureichenau</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Sparkassenbezirkverband Ndb.</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Jakob Claus</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Sparkasse Passau</div>
 											</td>
 										</tr>
 									</tbody>
@@ -364,16 +379,6 @@
 										</tr>
 										<tr>
 											<td class="p-2 whitespace-nowrap">
-												<div class="text-left">Sparkasse FRG</div>
-											</td>
-										</tr>
-										<tr>
-											<td class="p-2 whitespace-nowrap">
-												<div class="text-left">Sparkasse Passau</div>
-											</td>
-										</tr>
-										<tr>
-											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Marienapotheke</div>
 											</td>
 										</tr>
@@ -385,6 +390,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Jakob Metall am Bau</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Ploechinger Thomas</div>
 											</td>
 										</tr>
 									</tbody>
@@ -421,6 +431,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Drs. Knollmüller Waldkirchen</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Sparkasse FRG</div>
 											</td>
 										</tr>
 										<tr>
@@ -777,11 +792,6 @@
 										</tr>
 										<tr>
 											<td class="p-2 whitespace-nowrap">
-												<div class="text-left">Sparkasse FRG</div>
-											</td>
-										</tr>
-										<tr>
-											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Bouille Jacques</div>
 											</td>
 										</tr>
@@ -859,6 +869,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Bavaria Briefmarken Markus Sitter e.K.</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">S.V. Neureichenau e.V.</div>
 											</td>
 										</tr>
 										<tr>
@@ -984,6 +999,31 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">KDFB Neureichenau</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Paukner Alexander und Elisabeth</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Kremer Christian Erlebnisakademie</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Prassl Stephan</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Limmer Oswald</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Theresia und Josef Madl</div>
 											</td>
 										</tr>
 									</tbody>
