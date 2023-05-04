@@ -144,11 +144,6 @@
 												<div class="text-left">Jakob Claus</div>
 											</td>
 										</tr>
-										<tr>
-											<td class="p-2 whitespace-nowrap">
-												<div class="text-left">Sparkasse Passau</div>
-											</td>
-										</tr>
 									</tbody>
 								</table>
 							</div>
