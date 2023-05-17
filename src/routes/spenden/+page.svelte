@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  215.197,58 €</h1>
-					<div class="mb-2">(Stand: 04.05.2023)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:   216.697,58 €</h1>
+					<div class="mb-2">(Stand: 12.05.2023)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -390,6 +390,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Ploechinger Thomas</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Roehrl & Keil GmbH</div>
 											</td>
 										</tr>
 									</tbody>
