@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:   216.697,58 €</h1>
-					<div class="mb-2">(Stand: 12.05.2023)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  241.497,58 €</h1>
+					<div class="mb-2">(Stand: 30.05.2023)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -142,6 +142,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Jakob Claus</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Wir Waermen KG</div>
 											</td>
 										</tr>
 									</tbody>
@@ -395,6 +400,16 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Roehrl & Keil GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Muthmann Alexander</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Geosystem GBK GmbH</div>
 											</td>
 										</tr>
 									</tbody>
@@ -1024,6 +1039,31 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Theresia und Josef Madl</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Betonsägearbeiten und Kernbohrungen Vogl GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Anetzberger Maximilian</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Weber Elke</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Schwaiger Manfred</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Dr. Reinhard August Roth und Christa Roth</div>
 											</td>
 										</tr>
 									</tbody>
