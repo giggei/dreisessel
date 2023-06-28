@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  241.497,58 €</h1>
-					<div class="mb-2">(Stand: 30.05.2023)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  248.858,52 €</h1>
+					<div class="mb-2">(Stand: 27.06.2023)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -410,6 +410,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Geosystem GBK GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Bayerische Staatsforsten AöR</div>
 											</td>
 										</tr>
 									</tbody>
@@ -1064,6 +1069,31 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Dr. Reinhard August Roth und Christa Roth</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Kobler-Rosing</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">DJK-SSC Lackenhäuser</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Thür Stefan</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">SSP Planung GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Nigl & Mader GmbH technische Planung</div>
 											</td>
 										</tr>
 									</tbody>
