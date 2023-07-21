@@ -149,6 +149,11 @@
 												<div class="text-left">Wir Waermen KG</div>
 											</td>
 										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Herzig Sanitär</div>
+											</td>
+										</tr>
 									</tbody>
 								</table>
 							</div>
@@ -410,6 +415,31 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Geosystem GBK GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Bayerische Staatsforsten AöR</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Bermann Walter</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Edelmann Ingrid und Karl</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Coole-Decken-Designkühldecken</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Essl GmbH</div>
 											</td>
 										</tr>
 									</tbody>
@@ -1064,6 +1094,46 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Dr. Reinhard August Roth und Christa Roth</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Kobler-Rosing</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">DJK-SSC Lackenhäuser</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Thür Stefan</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Nigl & Mader GmbH technische Planung</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Denk E-Bike Center</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Mörtl Eduard Textilreinigung</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Hitzler Ludwig</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Weidner Elisabeth</div>
 											</td>
 										</tr>
 									</tbody>
