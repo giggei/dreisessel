@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  273.130,52 €</h1>
-					<div class="mb-2">(Stand: 12.07.2023)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  292.488,08 €</h1>
+					<div class="mb-2">(Stand: 27.07.2023)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -152,6 +152,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Herzig Sanitär</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Schmöller Helmut</div>
 											</td>
 										</tr>
 									</tbody>
@@ -440,6 +445,36 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Essl GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Breitenfellner Erwin Transport GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Weigerstorfer GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Vogl Bäckerei</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Resch Baptist</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Gemeinde Tourismus</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Kühberger Metallbau</div>
 											</td>
 										</tr>
 									</tbody>
@@ -1134,6 +1169,31 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Weidner Elisabeth</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Madl Josef (Leopoldsreut)</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Blössl Norbert Spenglerei</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Kapfer Johann</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Schuster Bernd</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">E. Gottinger-Jany & M. Gottinger</div>
 											</td>
 										</tr>
 									</tbody>
