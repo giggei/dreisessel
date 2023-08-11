@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  292.488,08 €</h1>
-					<div class="mb-2">(Stand: 27.07.2023)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  303.638,08 €</h1>
+					<div class="mb-2">(Stand: 09.08.2023)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -157,6 +157,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Schmöller Helmut</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Tourismusverein am Dreisessel</div>
 											</td>
 										</tr>
 									</tbody>
@@ -475,6 +480,16 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Kühberger Metallbau</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Kultur und Theaterverein e.V.</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Bumberger Erwin und Sylvia</div>
 											</td>
 										</tr>
 									</tbody>
@@ -1194,6 +1209,26 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">E. Gottinger-Jany & M. Gottinger</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Thuer Stefan</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Kittl Josef E.K.</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Hackinger Daniel</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Ebner Ernst und Roswitha Wiesenbart</div>
 											</td>
 										</tr>
 									</tbody>
