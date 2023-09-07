@@ -164,6 +164,16 @@
 												<div class="text-left">Tourismusverein am Dreisessel</div>
 											</td>
 										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Resch Baptist</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Hoffmann Johann (Schreinerei)</div>
+											</td>
+										</tr>
 									</tbody>
 								</table>
 							</div>
@@ -469,11 +479,6 @@
 										</tr>
 										<tr>
 											<td class="p-2 whitespace-nowrap">
-												<div class="text-left">Resch Baptist</div>
-											</td>
-										</tr>
-										<tr>
-											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Gemeinde Tourismus</div>
 											</td>
 										</tr>
@@ -490,6 +495,16 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Bumberger Erwin und Sylvia</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Fuchs Alois Schreinerei Dorn</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Stadt Waldkirchen</div>
 											</td>
 										</tr>
 									</tbody>
@@ -1229,6 +1244,21 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Ebner Ernst und Roswitha Wiesenbart</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Garhammer Vereinswoche</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Reis Patricia e Silva</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Jagdgenossenschaft Altreichenau Obergroßberger Josef</div>
 											</td>
 										</tr>
 									</tbody>
