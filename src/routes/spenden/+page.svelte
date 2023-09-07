@@ -161,7 +161,7 @@
 										</tr>
 										<tr>
 											<td class="p-2 whitespace-nowrap">
-												<div class="text-left">Tourismusverein am Dreisessel</div>
+												<div class="text-left">Tourismusverein am Dreisessel (Quälspaß)</div>
 											</td>
 										</tr>
 										<tr>
