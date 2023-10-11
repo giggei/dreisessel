@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  303.638,08 €</h1>
-					<div class="mb-2">(Stand: 09.08.2023)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  323.798,94 €</h1>
+					<div class="mb-2">(Stand: 24.09.2023)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -505,6 +505,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Stadt Waldkirchen</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Waldvereinssektion Freyung</div>
 											</td>
 										</tr>
 									</tbody>
@@ -1259,6 +1264,36 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Jagdgenossenschaft Altreichenau Obergroßberger Josef</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Müller Josef Estrichbau</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Süß Ludwig</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Pauli Erwin</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Sterz Michael</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Limmer Oswald</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Sezgin Talu  Zahnärzte am Dreisessel</div>
 											</td>
 										</tr>
 									</tbody>
