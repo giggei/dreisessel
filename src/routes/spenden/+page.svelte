@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  323.798,94 €</h1>
-					<div class="mb-2">(Stand: 24.09.2023)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:   331.547,28 €</h1>
+					<div class="mb-2">(Stand: 02.11.2023)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -510,6 +510,16 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Waldvereinssektion Freyung</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Akustikbau Haydn & Oberneder GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Mühldorfer Bettenhaus</div>
 											</td>
 										</tr>
 									</tbody>
@@ -1294,6 +1304,41 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Sezgin Talu  Zahnärzte am Dreisessel</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Gibis Max</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Dr. Olaf Heinrich</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Stockinger Simon</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Schmid Eduard und Anneliese</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Scheibelberger Sandra</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Niedermeier Max</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Pichler Kirstin und Martin</div>
 											</td>
 										</tr>
 									</tbody>
