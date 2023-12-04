@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:   331.547,28 €</h1>
-					<div class="mb-2">(Stand: 02.11.2023)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme:  337.247,28 €</h1>
+					<div class="mb-2">(Stand: 01.12.2023)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
@@ -172,6 +172,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Hoffmann Johann (Schreinerei)</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Schmidbauer Dr. Siegfried u. Dagmar</div>
 											</td>
 										</tr>
 									</tbody>
@@ -515,6 +520,21 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Akustikbau Haydn & Oberneder GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Mühldorfer Bettenhaus</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Drent und Herent</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Kneidinger GmbH</div>
 											</td>
 										</tr>
 										<tr>
@@ -1339,6 +1359,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Pichler Kirstin und Martin</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Brunner Franz</div>
 											</td>
 										</tr>
 									</tbody>
