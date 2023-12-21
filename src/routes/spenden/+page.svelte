@@ -179,6 +179,16 @@
 												><div class="text-left">Schmidbauer Dr. Siegfried u. Dagmar</div>
 											</td>
 										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Rosenium GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">ILE Abteiland</div>
+											</td>
+										</tr>
 									</tbody>
 								</table>
 							</div>
@@ -1364,6 +1374,16 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap"
 												><div class="text-left">Brunner Franz</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Helbig Roland</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Gutsmiedl Josef und Elisabeth</div>
 											</td>
 										</tr>
 									</tbody>
