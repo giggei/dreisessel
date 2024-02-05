@@ -572,6 +572,11 @@
 												<div class="text-left">Götz Michael</div>
 											</td>
 										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Pumpen Pauli</div>
+											</td>
+										</tr>
 									</tbody>
 								</table>
 							</div>
@@ -1444,6 +1449,16 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap"
 												><div class="text-left">Blümel Johannes</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Krieg Heinrich</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Beyer Jakob & Marianne</div>
 											</td>
 										</tr>
 									</tbody>
