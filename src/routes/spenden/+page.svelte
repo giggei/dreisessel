@@ -204,6 +204,16 @@
 												><div class="text-left">Rosenium XXI Gut Oberfrauenau</div>
 											</td>
 										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">RAIBA Gewinnsparverein</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">RAIBA Wegscheid</div>
+											</td>
+										</tr>
 									</tbody>
 								</table>
 							</div>
@@ -575,6 +585,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Pumpen Pauli</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Schaepertoens Bernhard</div>
 											</td>
 										</tr>
 									</tbody>
@@ -1459,6 +1474,16 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap"
 												><div class="text-left">Beyer Jakob & Marianne</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">König Max</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Frank Anton</div>
 											</td>
 										</tr>
 									</tbody>
