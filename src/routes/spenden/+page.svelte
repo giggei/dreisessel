@@ -214,6 +214,41 @@
 												><div class="text-left">RAIBA Wegscheid</div>
 											</td>
 										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Modehaus Garhammer</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Pullman City Westernstadt</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Hotel Reischlhof Wegscheid</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Landrefugium Obermüller Untergriesbach</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Hotel Hüttenhof Grainet</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Landhaus zur Ohe Schönberg</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Hotel Jagdhof Röhrnbach</div>
+											</td>
+										</tr>
 									</tbody>
 								</table>
 							</div>
@@ -595,6 +630,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Berr Kurt Malerbetrieb</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Probsteder Gerüstbau</div>
 											</td>
 										</tr>
 									</tbody>
@@ -1504,6 +1544,26 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap"
 												><div class="text-left">Weinberger Helga</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Heinrich Anne-Rose & Heinrich</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Limmer Oswald</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Landrefugium Obermüller Untergriesbach</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Landhotel Haus Waldeck - Mitterfirmiansreut</div>
 											</td>
 										</tr>
 									</tbody>
