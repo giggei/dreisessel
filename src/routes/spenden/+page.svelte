@@ -249,6 +249,16 @@
 												><div class="text-left">Hotel Jagdhof Röhrnbach</div>
 											</td>
 										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Strobl Bay GmbH</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Landkreis Freyung-Grafenau</div>
+											</td>
+										</tr>
 									</tbody>
 								</table>
 							</div>
