@@ -251,7 +251,7 @@
 										</tr>
 										<tr>
 											<td class="p-2 whitespace-nowrap"
-												><div class="text-left">Strobl Bay GmbH</div>
+												><div class="text-left">Strobl Bau GmbH</div>
 											</td>
 										</tr>
 										<tr>
