@@ -61,8 +61,8 @@
 
 			<section class="antialiased text-gray-600">
 				<div class="flex flex-col place-items-center">
-					<h1 class="font-bold text-2xl">Aktuelle Spendensumme: 411.074,72 €</h1>
-					<div class="mb-2">(Stand: 11.04.2024)</div>
+					<h1 class="font-bold text-2xl">Aktuelle Spendensumme: 479.393,14 €</h1>
+					<div class="mb-2">(Stand: 25.10.2024)</div>
 
 					<div
 						class="w-full max-w-2xl mx-auto bg-white shadow-lg rounded-sm border border-gray-200"
