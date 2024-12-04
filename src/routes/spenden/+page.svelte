@@ -259,6 +259,16 @@
 												><div class="text-left">Landkreis Freyung-Grafenau</div>
 											</td>
 										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">1. Bier- und Wohlfühlhotel  Gut Riedelsbach GmbH  & Co.KG</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Johann Rosenberger</div>
+											</td>
+										</tr>
 									</tbody>
 								</table>
 							</div>
@@ -645,6 +655,16 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">Probsteder Gerüstbau</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Weikl GmbH & Co. KG</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Schmöller Helmut</div>
 											</td>
 										</tr>
 									</tbody>
@@ -1574,6 +1594,21 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap"
 												><div class="text-left">Landhotel Haus Waldeck - Mitterfirmiansreut</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Limmer Oswald</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Franz Brunner</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Holz Resch</div>
 											</td>
 										</tr>
 									</tbody>
