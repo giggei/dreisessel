@@ -672,6 +672,11 @@
 												<div class="text-left">Schmöller Helmut</div>
 											</td>
 										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">W. Markgraf GmbH</div>
+											</td>
+										</tr>
 									</tbody>
 								</table>
 							</div>
@@ -1619,6 +1624,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap"
 												><div class="text-left">Gumminger Resi</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Kirschner Maria</div>
 											</td>
 										</tr>
 									</tbody>
