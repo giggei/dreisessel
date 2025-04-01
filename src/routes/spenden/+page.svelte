@@ -274,6 +274,11 @@
 												><div class="text-left">Sitter Bernhard (Tourismus Marketing)</div>
 											</td>
 										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Josef Rädlinger Bauunternehmen Windorf</div>
+											</td>
+										</tr>
 									</tbody>
 								</table>
 							</div>
@@ -302,11 +307,6 @@
 										</tr>
 										<tr>
 											<td class="p-2 whitespace-nowrap">
-												<div class="text-left">Josef Rädlinger Bauunternehmen Windorf</div>
-											</td>
-										</tr>
-										<tr>
-											<td class="p-2 whitespace-nowrap">
 												<div class="text-left">PRO BAU Ingenieur- und Rohrleitungsbau GmbH</div>
 											</td>
 										</tr>
@@ -317,7 +317,7 @@
 										</tr>
 										<tr>
 											<td class="p-2 whitespace-nowrap">
-												<div class="text-left">Franz Schelle GMBH &CO KG Pfaffenhofen</div>
+												<div class="text-left">Franz Schelle GMBH & CO KG Pfaffenhofen</div>
 											</td>
 										</tr>
 										<tr>
