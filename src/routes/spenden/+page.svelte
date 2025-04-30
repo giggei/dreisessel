@@ -677,6 +677,11 @@
 												<div class="text-left">W. Markgraf GmbH</div>
 											</td>
 										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap">
+												<div class="text-left">Gaas Florian</div>
+											</td>
+										</tr>
 									</tbody>
 								</table>
 							</div>
@@ -1629,6 +1634,11 @@
 										<tr>
 											<td class="p-2 whitespace-nowrap"
 												><div class="text-left">Kirschner Maria</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Dickenberger Thomas</div>
 											</td>
 										</tr>
 									</tbody>
