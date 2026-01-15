@@ -1651,6 +1651,16 @@
 												><div class="text-left">Dickenberger Thomas</div>
 											</td>
 										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Spitzer Waltraud</div>
+											</td>
+										</tr>
+										<tr>
+											<td class="p-2 whitespace-nowrap"
+												><div class="text-left">Reischl Christian</div>
+											</td>
+										</tr>
 									</tbody>
 								</table>
 							</div>
