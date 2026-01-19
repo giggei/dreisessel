@@ -8,7 +8,6 @@
 
 <svelte:head>
 	<title>Umbau</title>
-	<html lang="de"></html>
 </svelte:head>
 
 <!-- Background image TODO: Eigene Componente -->

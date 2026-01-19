@@ -3,6 +3,8 @@
 	import logoHaus from "$lib/assets/schutzhaus_klein.png"
 	import "../app.css";
 
+	let { children } = $props();
+
 	const toggleMenu = () => {
 		const menu = document.querySelector(".mobile-menu");
 		if (menu !== null) menu.classList.toggle("hidden");
@@ -50,7 +52,7 @@
 			<div class="lg:hidden flex items-center space-x-1">
 				<img style="height: 40px;" src={logoHaus} alt="Förderverein Schutzhaus Dreisessel" class="mr-3 h-8">
 			</div>
-			<button type="button" aria-label="Menü öffnen" class="lg:hidden flex items-center space-x-1 h-16 float-right cursor-pointer bg-transparent border-none" on:click="{toggleMenu}">
+			<button type="button" aria-label="Menü öffnen" class="lg:hidden flex items-center space-x-1 h-16 float-right cursor-pointer bg-transparent border-none" onclick={toggleMenu}>
 				<div class="space-y-2">
 					<div class="w-8 h-0.5 bg-gray-600"></div>
 					<div class="w-8 h-0.5 bg-gray-600"></div>
@@ -61,18 +63,18 @@
 	</div>
 	<!-- mobile menu -->
 	<div class="mobile-menu hidden lg:hidden">
-		<a href="/" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Startseite</a>
-		<a href="/geschichte" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Geschichte</a>
-		<a href="/umbau" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Die Renovierung</a>
-		<a href="/paechter" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Der Pächter</a>
-		<a href="/blog" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Aktuelles</a>
-		<a href="/spenden" class="block py-2 px-4 text-sm hover:bg-gray-200" on:click="{toggleMenu}">Jetzt Spenden</a>
+		<a href="/" class="block py-2 px-4 text-sm hover:bg-gray-200" onclick={toggleMenu}>Startseite</a>
+		<a href="/geschichte" class="block py-2 px-4 text-sm hover:bg-gray-200" onclick={toggleMenu}>Geschichte</a>
+		<a href="/umbau" class="block py-2 px-4 text-sm hover:bg-gray-200" onclick={toggleMenu}>Die Renovierung</a>
+		<a href="/paechter" class="block py-2 px-4 text-sm hover:bg-gray-200" onclick={toggleMenu}>Der Pächter</a>
+		<a href="/blog" class="block py-2 px-4 text-sm hover:bg-gray-200" onclick={toggleMenu}>Aktuelles</a>
+		<a href="/spenden" class="block py-2 px-4 text-sm hover:bg-gray-200" onclick={toggleMenu}>Jetzt Spenden</a>
 	</div>
 </nav>
 <!-- content goes here -->
 
 <div class="pb-20 mt-[64px] flex-grow">
-	<slot />
+	{@render children()}
 </div>
 
 <footer class="p-4 bg-beige shadow text-gray-600 ">

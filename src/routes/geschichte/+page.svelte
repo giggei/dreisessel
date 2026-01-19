@@ -5,7 +5,6 @@
 
 <svelte:head>
 	<title>Geschichte</title>
-	<html lang="de"></html>
 </svelte:head>
 
 <section class="py-20 bg-white">
