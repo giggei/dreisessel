@@ -5,7 +5,7 @@
 
 <svelte:head>
 	<title>Geschichte</title>
-	<html lang="de" />
+	<html lang="de"></html>
 </svelte:head>
 
 <section class="py-20 bg-white">
@@ -43,7 +43,7 @@
 			{#each timeline.reverse() as { year, info }}
 				<li>
 					<div class="flex flex-start items-center pt-2">
-						<div class="bg-gruen w-2 h-2 rounded-full -ml-1 mr-3" />
+						<div class="bg-gruen w-2 h-2 rounded-full -ml-1 mr-3"></div>
 						<h4 class="text-gray-800 font-semibold text-xl mb-1.5">{year}</h4>
 					</div>
 					<div class="mt-0.5 ml-4 mb-6">

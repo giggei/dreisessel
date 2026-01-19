@@ -8,7 +8,7 @@
 
 <svelte:head>
 	<title>Umbau</title>
-	<html lang="de" />
+	<html lang="de"></html>
 </svelte:head>
 
 <!-- Background image TODO: Eigene Componente -->
@@ -93,7 +93,7 @@
 			<div class="relative space-y-12 max-w-7xl xl:px-12 flex flex-col px-8 mx-auto">
 				<div
 					class="absolute hidden w-px h-full transform -translate-x-1/2 bg-gruen lg:block left-1/2"
-				/>
+				></div>
 				<div class="space-y-12 lg:space-y-8">
 					<!-- Left section -->
 					<div>

@@ -5,7 +5,7 @@
 
 <svelte:head>
 	<title>Spenden</title>
-	<html lang="de" />
+	<html lang="de"></html>
 </svelte:head>
 
 <section class="py-20 bg-white">
@@ -38,14 +38,14 @@
 					<div>
 						<blockquote>
 							<div>
-								<p class="text-gray-800 sm:text-xl">
+								<div class="text-gray-800 sm:text-xl">
 									<em>
 										<p><b>Förderverein Schutzhaus Dreisessel e.V.</b></p>
 										<p>IBAN: DE03 7406 1101 0201 8124 16</p>
 										<p>BIC: GENODEF 1RGS</p>
 										<p>Betreff: Spende Schutzhaus Dreisessel</p>
 									</em>
-								</p>
+								</div>
 								<br />
 								<QRCode />
 								Scannen Sie einfach diesen Code mit Ihrer Banking-App!

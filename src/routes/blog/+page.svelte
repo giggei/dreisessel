@@ -1,6 +1,11 @@
+<script>
+	/** @type {Array<{date: string, title: {rendered: string}, content: {rendered: string}}>} */
+	let posts = [];
+</script>
+
 <svelte:head>
 	<title>Aktuelles</title>
-	<html lang="de" />
+	<html lang="de"></html>
 </svelte:head>
 
 <section class="py-20 bg-white">

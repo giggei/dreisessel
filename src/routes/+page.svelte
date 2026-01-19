@@ -6,7 +6,7 @@
 
 <svelte:head>
 	<title>Startseite</title>
-	<html lang="de" />
+	<html lang="de"></html>
 </svelte:head>
 
 <!-- Background image TODO: Eigene Componente -->

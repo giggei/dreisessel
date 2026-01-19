@@ -50,13 +50,13 @@
 			<div class="lg:hidden flex items-center space-x-1">
 				<img style="height: 40px;" src={logoHaus} alt="Förderverein Schutzhaus Dreisessel" class="mr-3 h-8">
 			</div>
-			<div class="lg:hidden flex items-center space-x-1 h-16 float-right cursor-pointer" on:click="{toggleMenu}">
+			<button type="button" aria-label="Menü öffnen" class="lg:hidden flex items-center space-x-1 h-16 float-right cursor-pointer bg-transparent border-none" on:click="{toggleMenu}">
 				<div class="space-y-2">
 					<div class="w-8 h-0.5 bg-gray-600"></div>
 					<div class="w-8 h-0.5 bg-gray-600"></div>
 					<div class="w-8 h-0.5 bg-gray-600"></div>
 				  </div>
-			</div>
+			</button>
 		</div>
 	</div>
 	<!-- mobile menu -->

@@ -4,7 +4,7 @@
 
 <svelte:head>
 	<title>Impressum</title>
-	<html lang="de" />
+	<html lang="de"></html>
 </svelte:head>
 
 <section class="py-20 bg-white">
@@ -84,19 +84,19 @@
 			<h1 class="font-bold text-3xl my-4 text-gruen">
 				Nutzungsbedingungen
 			</h1>
-			<p class="mb-6">
-				Die Bereitstellung von Informationen auf dieser Website erfolgt ausschließlich unter Geltung der folgenden&nbsp;Nutzungsbedingungen, mit denen sich der/die Nutzer/-in durch Nutzung einverstanden erklärt:
-				<br/><p><b>Inhalt:</b></p><br />
-				Änderung und Irrtum vorbehalten. Die Informationen auf unserer Website werden sorgfältig und in regelmäßigen Abständen bzw.&nbsp;bei aktuellem Anlass überprüft, berichtigt, ergänzt und aktualisiert.
+			<div class="mb-6">
+				<p>Die Bereitstellung von Informationen auf dieser Website erfolgt ausschließlich unter Geltung der folgenden&nbsp;Nutzungsbedingungen, mit denen sich der/die Nutzer/-in durch Nutzung einverstanden erklärt:</p>
+				<br /><p><b>Inhalt:</b></p><br />
+				<p>Änderung und Irrtum vorbehalten. Die Informationen auf unserer Website werden sorgfältig und in regelmäßigen Abständen bzw.&nbsp;bei aktuellem Anlass überprüft, berichtigt, ergänzt und aktualisiert.
 				Dennoch können fehlerhafte, unrichtige und/oder lückenhafte Informationen enthalten sein. Auch die Abwesenheit gewerblicher&nbsp;oder geistiger Schutzrechte Dritter kann nicht garantiert werden. Alle genannten Firmen-, Produkt- und Markenbezeichnungen&nbsp;sind Eigentum der jeweiligen Inhaber und in der Regel&nbsp; marken-, gebrauchsmuster- oder patentrechtlich geschützt. Wir machen&nbsp;uns keine fremden Marken zu Eigen.
-				Bitte beachten Sie, dass unsere Website teilweise Informationen enthält, die von Dritten selbst eingestellt werden.&nbsp;Die Verantwortung für diese Inhalte liegt vollständig beim jeweiligen Autor.
+				Bitte beachten Sie, dass unsere Website teilweise Informationen enthält, die von Dritten selbst eingestellt werden.&nbsp;Die Verantwortung für diese Inhalte liegt vollständig beim jeweiligen Autor.</p>
 				<br /><br /><p><b>Links und Verlinkung:</b></p><br />
-				Links auf andere Webseiten haben lediglich informativen Charakter und spiegeln nicht zwingend unsere Meinung wieder.&nbsp;Wir haften nicht für die Inhalte fremder Webseiten und übernehmen insbesondere auch keine Verantwortung für deren&nbsp;Inhalte, Funktionsfähigkeit, Fehlerfreiheit oder Rechtmäßigkeit.
+				<p>Links auf andere Webseiten haben lediglich informativen Charakter und spiegeln nicht zwingend unsere Meinung wieder.&nbsp;Wir haften nicht für die Inhalte fremder Webseiten und übernehmen insbesondere auch keine Verantwortung für deren&nbsp;Inhalte, Funktionsfähigkeit, Fehlerfreiheit oder Rechtmäßigkeit.
 				Die Einrichtung von Links von anderen Websites auf zu dieser Website gehörende Seiten bzw. Daten ist gestattet, wir bitten&nbsp;allerdings um eine entsprechende Benachrichtigung. Unzulässig und ausdrücklich unerwünscht ist allerdings eine Verlinkung,&nbsp;die die Herkunft der Informationen verschleiert. Dies gilt vor allem für die Einbindung oder Darstellung von Seiten bzw.&nbsp;Daten in einem Teilfenster (Frame).
-				Dieser Internetauftritt enthält Links zu anderen Internetseiten. Wir erklären ausdrücklich, dass wir keinen Einfluss auf&nbsp;deren Inhalte und die Gestaltung dieser Internetseiten haben und machen uns Ihre Inhalte nicht zueigen.
+				Dieser Internetauftritt enthält Links zu anderen Internetseiten. Wir erklären ausdrücklich, dass wir keinen Einfluss auf&nbsp;deren Inhalte und die Gestaltung dieser Internetseiten haben und machen uns Ihre Inhalte nicht zueigen.</p>
 				<br /><br /><p><b>Haftung:</b></p><br />
-				Wir übernehmen keine Haftung für unmittelbare oder mittelbare Schäden, die durch die Nutzung dieser Website, das Vertrauen&nbsp;auf die darin enthaltenen Informationen oder den Download von Daten und/oder Programmen entstehen. Dies gilt auch für einen<br />
-				möglichen Virenbefall. Die auf unserer Website veröffentlichten Inhalte legen das Recht der Bundesrepublik Deutschland&nbsp;zugrunde. Wir übernehmen keine Gewähr dafür, dass die Informationen für die Nutzung an anderen Orten geeignet sind oder sich&nbsp;in Übereinstimmung mit der Gesetzgebung dieser Orte befinden.
+				<p>Wir übernehmen keine Haftung für unmittelbare oder mittelbare Schäden, die durch die Nutzung dieser Website, das Vertrauen&nbsp;auf die darin enthaltenen Informationen oder den Download von Daten und/oder Programmen entstehen. Dies gilt auch für einen<br />
+				möglichen Virenbefall. Die auf unserer Website veröffentlichten Inhalte legen das Recht der Bundesrepublik Deutschland&nbsp;zugrunde. Wir übernehmen keine Gewähr dafür, dass die Informationen für die Nutzung an anderen Orten geeignet sind oder sich&nbsp;in Übereinstimmung mit der Gesetzgebung dieser Orte befinden.</p>
 				<br /><br /><p><b>Zitate:</b></p><br />
 				Die Wiedergabe von Seiten, Texten und/oder Artikeln ist ausschließlich nur dann gestattet, wenn sie in vollem Umfang und&nbsp;ohne irgendeine inhaltliche oder redaktionelle Veränderung wiedergegeben werden, und die Quelle genannt wird.
 				<br /><br /><p><b>Änderungen:</b></p><br />
@@ -105,6 +105,7 @@
 				Sollte eine der vorgenannten Klauseln ungültig sein, wird die Gültigkeit der verbleibenden Klauseln hierdurch nicht berührt.
 				<br /><br /><p><strong>Pflege des Internetauftritts:</strong><br>
 				Markus Garnitz</p>
+		</div>
 		</div>
 	</div>
 </section>
